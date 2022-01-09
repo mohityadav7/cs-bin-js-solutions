@@ -1,4 +1,4 @@
-/* HALLENGE 1 */
+/* CHALLENGE 1 */
 
 function sayHowdy() {
   console.log('Howdy');
@@ -34,9 +34,9 @@ function helloGoodbye() {
 /* CHALLENGE 4 */
 
 // Approach 1
-// function brokenRecord() {
-//     setInterval(() => console.log('hi'), 1000);
-// }
+function brokenRecord() {
+    setInterval(() => console.log('hi'), 1000);
+}
 
 // Approach 2
 // function brokenRecord() {
